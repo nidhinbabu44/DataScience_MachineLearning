@@ -10,3 +10,4 @@ knn=KNeighbourClassifier(n_neighbour=1)
 knn.fit(x_train,y_train)
 print(knn.predict(x_test)) 
 
+
